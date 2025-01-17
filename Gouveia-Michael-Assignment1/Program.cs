@@ -76,3 +76,4 @@ if (choice1 == "punch")
         Console.WriteLine("You easily dodge his fist! And without a second hesitation throw and land a clean right hook! KNOCKOUT YOU WINN!!!");
     }
 }
+//End of assignment
